@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Milad Jalali</h1>
 <h3 align="center">An experienced mobile developer</h3>
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/20348225?v=4" alt="miladjalalli" /> </p>
-
 - 🌱 I’m currently learning **Kotlin**
 
 - 💬 Ask me about **Flutter**
